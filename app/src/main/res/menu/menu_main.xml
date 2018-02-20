@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<item
+		android:id="@+id/action_cookies"
+		android:title="输入Cookies"
+		android:showAsAction="never"/>
+	
+	<item
+		android:id="@+id/action_about"
+		android:title="关于我们"
+		android:showAsAction="never"/>
+	
+</menu>
+
